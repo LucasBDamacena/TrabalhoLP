@@ -1,0 +1,4 @@
+INSTALAÇÃO DO BANCO DE DADOS SQLITE:
+
+COPIE A PASTA "banco_consultas" para C:/
+
