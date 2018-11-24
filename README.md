@@ -1,13 +1,13 @@
 # TrabalhoLP
-Instruções de instalação:
-  INSTALAÇÃO DO BANCO DE DADOS SQLITE:
-  COPIE A PASTA "banco_consultas" para C:/
-
+Instruções de instalação:<br>
+  INSTALAÇÃO DO BANCO DE DADOS SQLITE:<br>
+  COPIE A PASTA "banco_consultas" para C:/<br>
+<br>
 Trabalho realizada para a disciplina de Linguagem de Programação III, da Faculdade Multivix Cachoeiro de Itapemirim - ES.
 <br>
-Grupo:
-EDIVIANE MELLO FRANCISCO SANDES
-LUCAS BUSATO DAMACENA
+Grupo:<br>
+EDIVIANE MELLO FRANCISCO SANDES<br>
+LUCAS BUSATO DAMACENA<br>
 SIDINEY SILVA LOPES
 
 
