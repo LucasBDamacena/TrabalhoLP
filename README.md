@@ -6,7 +6,7 @@ Sistema de Consultas Médicas<br>
 Trabalho realizada para a disciplina de Linguagem de Programação III, da Faculdade Multivix Cachoeiro de Itapemirim - ES.
 <br><br>
 Grupo:<br>
-EDIVIANE MELLO FRANCISCO SANDES<br>
+EDIVIANE MELLO <br>FRANCISCO SANDES<br>
 LUCAS BUSATO DAMACENA<br>
 SIDINEY SILVA LOPES
 
